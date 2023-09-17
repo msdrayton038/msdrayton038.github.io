@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/WebstormProjects/COMP322HW1/.idea/COMP322.iml" filepath="$USER_HOME$/WebstormProjects/COMP322HW1/.idea/COMP322.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/msdrayton038.github.io.iml" filepath="$PROJECT_DIR$/.idea/msdrayton038.github.io.iml" />
     </modules>
   </component>
